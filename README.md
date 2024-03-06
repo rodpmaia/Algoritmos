@@ -1,0 +1,1 @@
+Â# Virada de chave 
