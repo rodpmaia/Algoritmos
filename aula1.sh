@@ -5,6 +5,6 @@
 
 # begin
 
-echo $msg
+  echo $msg
 
 # end
