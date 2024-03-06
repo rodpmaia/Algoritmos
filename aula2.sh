@@ -3,7 +3,7 @@
 # var
    #export nome
 # begin
-   echo "Digite seu nome: "
-   read nome 
+   read -p "Digite seu nome: " nome
+    
    echo "Olah! Seja bem vindo(a) ", $nome
 # end
