@@ -6,4 +6,4 @@ export msg="Olah Mundo! Nao vou parar por aqui"
 
 echo $msg
 
-# Fim @@@@ 
+# Fim @
