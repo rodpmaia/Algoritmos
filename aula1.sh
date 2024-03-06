@@ -1,9 +1,10 @@
 #!/bin/bash
 # Aula 1 Algoritmos com Shell Script
-# Inicio
+# var
+   export msg="Olah mundo, Livre da maldicao"
 
-export msg="Olah Mundo! Nao vou parar por aqui"
+# begin
 
 echo $msg
 
-# Fim @
+# end
